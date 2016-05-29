@@ -1,7 +1,7 @@
 using System;
 
 
-namespace CB.CompilerServices
+namespace CB.Dynamic.CompilerServices
 {
     public class ClassCreatorException: Exception
     {

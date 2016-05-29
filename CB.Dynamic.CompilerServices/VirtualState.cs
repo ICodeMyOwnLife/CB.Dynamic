@@ -1,4 +1,4 @@
-namespace CB.CompilerServices
+namespace CB.Dynamic.CompilerServices
 {
     public enum VirtualState
     {
